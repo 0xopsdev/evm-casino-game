@@ -57,9 +57,10 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-📫 Contact
+# 👨‍💻 Author
+### 📞 Telegram: [0xOpsDev](https://t.me/its0xopsdev)   
+https://t.me/its0xopsdev
 
-Project Author: Cornel Petrescu
-Discord: airgear6330
-Telegram: coinbit25
+
+Once we connect on Telegram, we can discuss further details through other communication channels.
 
